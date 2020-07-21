@@ -17,7 +17,8 @@
 - [Built-ins](./builtins)
 - [Functionals](./functionals)
 - [Regex and Parsing](./regexAndParsing)
-- [xml](./xml)
+- [XML](./xml)
+- [Closures and Decorators](./closuresAndDecorators)
 
 ## Reference 
 https://www.hackerrank.com/domains/python
