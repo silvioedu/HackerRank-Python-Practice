@@ -19,6 +19,7 @@
 - [Regex and Parsing](./regexAndParsing)
 - [XML](./xml)
 - [Closures and Decorators](./closuresAndDecorators)
+- [Numpy](./numpy)
 
 ## Reference 
 https://www.hackerrank.com/domains/python
