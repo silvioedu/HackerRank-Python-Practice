@@ -20,6 +20,8 @@
 - [XML](./xml)
 - [Closures and Decorators](./closuresAndDecorators)
 - [Numpy](./numpy)
+- [Debugging](./debugging)
+
 
 ## Reference 
 https://www.hackerrank.com/domains/python
